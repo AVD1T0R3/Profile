@@ -162,7 +162,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2rem;
+  gap: 4rem;
 }
 
 .project-card {
@@ -170,7 +170,7 @@ body {
   background: #ffe8cd;
   border: 1px solid #ddd;
   border-radius: 15px;
-  padding: 1rem;
+  padding: 2rem;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   transition: transform 0.3s ease;
 }
