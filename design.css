@@ -81,7 +81,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  padding: 7rem 3rem;
+  padding: 12rem 3rem;
   background: #ffe8cd;
   flex-wrap: wrap;
 }
@@ -121,7 +121,7 @@ body {
   background: #de8971;
 }
 #about {
-  padding: 3rem 2rem;
+  padding: 12rem 2rem;
   text-align: center;
   background: #fff;
 }
@@ -148,7 +148,7 @@ body {
   background: #de8971;
 }
 #projects {
-  padding: 3rem 2rem;
+  padding: 12rem 2rem;
   background-color: #f9f9f9;
   text-align: center;
 }
