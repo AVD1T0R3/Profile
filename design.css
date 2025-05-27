@@ -40,8 +40,8 @@ body {
 }
 .navbar {
   display: flex;
-  padding: 10px 20px;
-  position: fixed;
+  padding: 0px 0px;
+  position:fixed;
   box-sizing: border-box;
   top: 0;
   left: 0;
@@ -81,7 +81,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  padding: 3rem 2rem;
+  padding: 7rem 3rem;
   background: #ffe8cd;
   flex-wrap: wrap;
 }
