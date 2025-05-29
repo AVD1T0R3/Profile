@@ -1,2 +1,2 @@
 # My Profile
- Webpage containing myn personal portfolio
+ Webpage containing my personal portfolio
