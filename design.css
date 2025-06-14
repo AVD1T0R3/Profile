@@ -3,12 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
-html{
+html {
   scroll-behavior: smooth;
   background-color: #f2f2f2;
 }
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Montserrat", sans-serif;
   line-height: 1.6;
   background-color: #f2f2f2;
   color: #333;
@@ -41,7 +41,7 @@ body {
 .navbar {
   display: flex;
   padding: 0px 0px;
-  position:fixed;
+  position: fixed;
   box-sizing: border-box;
   top: 0;
   left: 0;
@@ -171,7 +171,7 @@ body {
   border: 1px solid #ddd;
   border-radius: 15px;
   padding: 2rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
   transition: transform 0.3s ease;
 }
 
@@ -232,7 +232,6 @@ body {
 
 #contact .social-icons a:hover {
   color: #de8971;
-
 }
 footer {
   background: #222;
